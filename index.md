@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: How Can We Help?
-    subtitle: Search or browse in depth articles and videos on everything Jekyll, from basic theme setup and hosting to customisation and development
+    title: fmy_notes
+    subtitle: Aquí algunas notas sobre sobre nuestra
     image: imac.svg
     search: true
 categories:

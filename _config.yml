@@ -24,14 +24,14 @@ brand:
 
 # Default author settings
 author:
-    name:       John Smith
-    github:     PressApps    # Github username for avatar
+    name:       Gustavo G.D.
+    github:     gustavodietz    # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     peter:
-        name:       Peter Brown
-        github:     PressApps    # Github username for avatar
+        name:       Gustavo G.D.
+        github:     gustavodietz     # Github username for avatar
 
 # Social icons displayed in footer
 social:
@@ -54,7 +54,7 @@ twitter_username:
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Made by a <a href="https://nirakara.org">human</a> somewhere on the planet earth.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
