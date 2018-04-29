@@ -1,14 +1,14 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Alguna pregunta
 permalink: /contact/
 formspree:
-    email: my_name@gmail.com
+    email: gustavo@nirakara.org
     redirect: /thanks/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Para cualquier pregunta
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+aunque no haya respuesta
 
 {% include map.html latitude="40.6700" longitude="-73.9400" zoom="16" %}

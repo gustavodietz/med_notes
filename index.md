@@ -13,12 +13,12 @@ featured:
     title: Popular Articles
     tag: featured
 section:
-    title: Need More?
-    subtitle: This section displays optional page content lorem ipsum
+    title: Necesitas más?
+    subtitle: algunas opciones
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
+    title: No encuentras la respueta?
+    subtitle: Sigue buscando...
+    button_text: Contacta   
     button_url: /contact/  
 ---
 
