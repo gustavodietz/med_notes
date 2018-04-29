@@ -9,13 +9,13 @@ title:              Med_notes
 description:        Med notes for fmy training.
 
 # Site subpath, e.g. /blog
-baseurl:            "med_notes"
+baseurl:            "/med_notes"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:categories/:year/:month/:day/:title:output_ext
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                ""
+url:                "https://gustavodietz.github.io/"
 
 # Site logo, image or text
 brand:
