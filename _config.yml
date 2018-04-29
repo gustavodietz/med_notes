@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Docs - Documentation Jekyll Theme
-description:        Documentation Jekyll theme.
+title:              Med_notes
+description:        Med notes for fmy training.
 
 # Site subpath, e.g. /blog
 baseurl:            "med_notes"
@@ -15,7 +15,7 @@ baseurl:            "med_notes"
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                " https://gustavodietz.github.io"
+url:                ""
 
 # Site logo, image or text
 brand:
